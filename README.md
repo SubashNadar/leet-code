@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/SubashNadar/leet-code/tree/master/0196-delete-duplicate-emails) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/SubashNadar/leet-code/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/SubashNadar/leet-code/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
