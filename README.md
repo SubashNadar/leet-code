@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/SubashNadar/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/SubashNadar/leet-code/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/SubashNadar/leet-code/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/SubashNadar/leet-code/tree/master/2058-concatenation-of-array) |
