@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/SubashNadar/leet-code/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/SubashNadar/leet-code/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/SubashNadar/leet-code/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/SubashNadar/leet-code/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
