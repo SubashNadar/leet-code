@@ -19,4 +19,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/SubashNadar/leet-code/tree/master/0768-partition-labels) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/SubashNadar/leet-code/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
