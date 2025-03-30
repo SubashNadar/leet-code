@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/SubashNadar/leet-code/tree/master/0768-partition-labels) |
+| [1651-shuffle-string](https://github.com/SubashNadar/leet-code/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/SubashNadar/leet-code/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1651-shuffle-string](https://github.com/SubashNadar/leet-code/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/SubashNadar/leet-code/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
